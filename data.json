@@ -1,0 +1,33 @@
+{
+  "ranking": {},
+  "partidas": {},
+  "torneios": {
+    "1568783365019140217": {
+      "nome": "1v1",
+      "modo": "1v1",
+      "tamanho": 1,
+      "vagas": 4,
+      "times": [
+        {
+          "nome": "gui",
+          "capitao": "524076197546819595",
+          "membros": [
+            "524076197546819595"
+          ]
+        },
+        {
+          "nome": "Penis",
+          "capitao": "1001925883239596072",
+          "membros": [
+            "1001925883239596072"
+          ]
+        }
+      ],
+      "estado": "inscricoes",
+      "partidas": [],
+      "campeao": null,
+      "painelCanalId": "1568791433597419690",
+      "painelMsgId": "1568802989635018873"
+    }
+  }
+}
